@@ -8,18 +8,18 @@ const NavBar = () => {
     <header>
       <Link to="/">
         <h1>Tienda Computacion</h1>
-      /</Link>  
+      </Link>  
 
         <nav>
             <ul>
                 <li>
-                  <Link to="categoria/componentes">Componentes</Link>
+                  <Link to= "categoria/Componentes">Componentes</Link>
                 </li>
                 <li>
-                  <Link to="categoria/perifericos">Perifericos</Link>
+                  <Link to="categoria/Perifericos">Perifericos</Link>
                   </li>
                 <li>
-                  <Link to="categoria/notebooks">Notebooks</Link>
+                  <Link to="categoria/Notebooks">Notebooks</Link>
                   </li>
             </ul>
         </nav>
